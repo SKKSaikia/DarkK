@@ -10,4 +10,4 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b>
 
 
 
-<img src="https://github.com/SKKSaikia/DarkK/blob/master/img/fkbkjb.png">
+This [Infographic](https://github.com/SKKSaikia/DarkK/blob/master/img/fkbkjb.png) gives a clear glimpse.
