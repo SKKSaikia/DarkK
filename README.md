@@ -8,4 +8,4 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b>
 
 !#  This blog is an honest report of X's journey through the [Deep Web] / DarkWeb. Not posting [mnorwrcrxw](https://en.wikipedia.org/wiki/Dark_web) and [nbpkl](https://darkwebnews.com/deep-web/) ! . anyxac xwuh: This [rwoxpajyqrl](https://github.com/SKKSaikia/DarkK/blob/master/img/fkbkjb.png) gives a clear glimpse. Things might get nasty.
 
-1) Silkroad[http://silkroad7rn2puhj.onion/] : Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products.
+1) Silkroad [http://silkroad7rn2puhj.onion/] : Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products.
