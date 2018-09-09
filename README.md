@@ -29,7 +29,7 @@ Mitnick
 # PayLoads & V!RU$3$
 Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
 <br/>
-CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/videos)
+CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/videos), [SIAM ALAM](https://www.youtube.com/channel/UCviSYAcwdnDX1UoRzAHYgNg/videos), [Leurak](https://www.youtube.com/channel/UCnye-JRGe8gWjaslsvrh63g/videos)
 
 <img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Virus_Blaster.jpg" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/wallpaper.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/computer-virus.jpg" height=153px width=230px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Aids_computer_virus.png" height=153px>
 
@@ -52,6 +52,6 @@ Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https:/
 
 Malware DOmain Lists: Free Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 
-Care where can you find V!RU$ sources ? : Dark Web
+Care where can you find V!RU$ sources ? : Dark Web // Listen to this [Art](https://youtu.be/7cyI8ww7P8g) __ 1:29
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
