@@ -27,13 +27,16 @@ Mitnick
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
 # PayLoads & V!RU$3$
-Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me. Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:
+Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me. Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [SASSER](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/>
+[WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
+<br/>
 
 <b>MELISSA:</b> <br/>
-<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself [VB Script]<br/> 
+<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself #no_host_program [VB Script]<br/> 
 <b>SQL SLAMMER:</b> WORM/ <br/>
 <b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
-<b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS<br/>
+<b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS. Code changed every Half hour / hard to find and was almost invisible<br/>
+<b>MEBROOT:</b> ~ connecting to TORPIG[BOTNET] <br/>
 
 term$ to look for: <br/>
 - [Botnets]() , [DDoS]() <br/>
