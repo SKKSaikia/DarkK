@@ -24,6 +24,8 @@ Keywords to Look for: <br/>
 # H4CK3RS 4BO4RD
 Curious & Excited I was , when I discovered ["DEFCON"](https://www.defcon.org/) back in 2008.
 
+<img src="https://github.com/SKKSaikia/DarkK/blob/master/img/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/1461296757_tumblr_o5xrl536Vi1u9hyw0o1_500.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/2dVk.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/badge3.gif" height=153px>
+
 Back in the early 2015 Winters, I waited for the [Phoenix](https://www.extremetech.com/wp-content/uploads/2015/02/tpbsite.jpg) to turn into the [HYDRA](https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Pirate_Bay_hydra_logo.jpg) once again (" HAIL HYDRA! "). Though I understand, Torrenting copyrighted content isn't a good thing, but for people who do not have money/resources, cannot afford to pay for overpriced $$ contents but wishes to learn and eleviate oneself, must be served. These contents would help bridge the gap of knowledge and to become a better human resource [LEARN.RISE.EARN.PAY]. Also, Do not pay for $hitty contents, if you really enjoyed something, please do support the Developers / Creators by purchasing from original store. X was from pretty far off / lived in a remote place, and X spent a lotta time with friends and well wishers in tpb & kat ; X was a active in IRC; RUSSIAN trackers [tparsers / ru-tracker] and forums [bakabt-kat]. X spent a lotta time getting contents from Russians / and other sources and putting them up in kat/tpb. LOT of DMCA's / Lotta Threats , those days were fun "for X" ; 
 
 
