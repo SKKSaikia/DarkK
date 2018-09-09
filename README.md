@@ -22,9 +22,15 @@ Keywords to Look for: <br/>
 [CICADA 3301](https://youtu.be/I2O7blSSzpI) silkroad, 4chan, /b/ , 
 
 # H4CK3RS 4BO4RD
-Mitnick
+Curious & Excited I was , when I discovered ["DEFCON"](https://www.defcon.org/) back in 2008.
 
+Back in the early 2015 Winters, I waited for the [Phoenix](https://www.extremetech.com/wp-content/uploads/2015/02/tpbsite.jpg) to turn into the [HYDRA](https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Pirate_Bay_hydra_logo.jpg) once again (" HAIL HYDRA! "). Though I understand, Torrenting copyrighted content isn't a good thing, but for people who do not have money/resources, cannot afford to pay for overpriced $$ contents but wishes to learn and eleviate oneself, must be served. These contents would help bridge the gap of knowledge and to become a better human resource [LEARN.RISE.EARN.PAY]. Also, Do not pay for $hitty contents, if you really enjoyed something, please do support the Developers / Creators by purchasing from original store. X was from pretty far off / lived in a remote place, and X spent a lotta time with friends and well wishers in tpb & kat ; X was a active in IRC; RUSSIAN trackers [tparsers / ru-tracker] and forums [bakabt-kat]. X spent a lotta time getting contents from Russians / and other sources and putting them up in kat/tpb. LOT of DMCA's / Lotta Threats , those days were fun "for X" ; 
+
+
+Look for : Aaron Swartz [JSTOR](), Wikileaks, Edward Snowden, Gottfrid Svartholm
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
+
+Conferences to follow: [DEFCON](), [BLACK-HAT]()., [CCC](), [RSA]() etc
 
 # PayLoads & V!RU$3$
 Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html) ; [How V!ru$ work$](https://computer.howstuffworks.com/virus.htm).
