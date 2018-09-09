@@ -33,7 +33,9 @@ Later I felt the need of core skills of Networking & Systems to get into Securit
 Look for : Aaron Swartz [JSTOR](), Wikileaks, Edward Snowden, Gottfrid Svartholm
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
-Conferences to follow: [DEFCON](), [BLACK-HAT]()., [CCC](), [RSA]() etc
+Conferences to follow: [DEFCON](https://www.defcon.org/html/links/dc-torrent.html), [BLACK-HAT](https://www.blackhat.com/)., [CCC](https://www.ccc.de/en/), [RSA](https://www.rsaconference.com/) etc. <br/>
+Some Interesting DEFCON talks: [Pwned by the Owner](https://youtu.be/Jwpg-AwJ0Jc), [Stealing Profits from Spammers](https://youtu.be/ytDamqTjPwg), [DEFCON DOcumentary](https://youtu.be/3ctQOmjQyYg) etc
+
 
 # PayLoads & V!RU$3$
 Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html) ; [How V!ru$ work$](https://computer.howstuffworks.com/virus.htm).
