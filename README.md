@@ -19,9 +19,13 @@ Docs to look for: <br/>
 [Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA)
 
 Keywords to Look for: <br/>
-silkroad, 4chan, /b/ , 
+[CICADA 3301](https://youtu.be/I2O7blSSzpI) silkroad, 4chan, /b/ , 
 
 # H4CK3RS 4BO4RD
 Mitnick
+
+[Four Horsemen](https://youtu.be/5fbvquHSPJU)
+
+# PayLoads & V!RU$3$
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
