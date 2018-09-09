@@ -44,7 +44,7 @@ Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V
 <b>LEAP:</b> <br/>
 <b>NIMDA:</b> <br/>
 term$ to look for: <br/>
-- [Botnets]() , [DDoS]() <br/>, [V!ru$ database](https://www.symantec.com/security-center/a-z)
+- [Botnets]() , [DDoS](), [V!ru$ database](https://www.symantec.com/security-center/a-z) <br/>
 
 Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU)
 
