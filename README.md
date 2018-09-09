@@ -27,7 +27,7 @@ Mitnick
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
 # PayLoads & V!RU$3$
-Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
+Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html) ; [How V!ru$ work$](https://computer.howstuffworks.com/virus.htm).
 <br/>
 CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/videos), [SIAM ALAM](https://www.youtube.com/channel/UCviSYAcwdnDX1UoRzAHYgNg/videos), [Leurak](https://www.youtube.com/channel/UCnye-JRGe8gWjaslsvrh63g/videos)
 
