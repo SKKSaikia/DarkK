@@ -12,4 +12,5 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
 !# tip: Turn OFF JavaScript in Tor | VPN(with No Logs)+Tor | Turn OFF Camera/Microphone (Tape It)
 
+[[LINKS]](https://darkwebnews.com/deep-web-links/) :
 1) Silkroad [http://silkroad7rn2puhj.onion/] : Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products.
