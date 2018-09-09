@@ -21,7 +21,7 @@ Docs to look for: <br/>
 Keywords to Look for: <br/>
 [CICADA 3301](https://youtu.be/I2O7blSSzpI) silkroad, 4chan, /b/ , 
 
-** ** ** ** ** I've SEEN More Than I Should Have | We are not alone ** ** ** ** **
+** ** ** ** ** <b> I've SEEN More Than I Should Have | We are not alone </b> ** ** ** ** **
 
 # H4CK3RS 4BO4RD
 Curious & Excited, when I discovered ["DEFCON"](https://www.defcon.org/) back in 2008. I was so soaked up in this world that I started learning Hacking ; Networking, would set up VMs of [Parrot](https://www.parrotsec.org/), [Kali Linux](https://www.kali.org/) - explore [wireshark](https://www.wireshark.org/), [nmap](https://nmap.org/), [metasploit](https://www.metasploit.com/) etc. Later trying out phishing, SQL Injection and stuff, to figure out how cool they were. This is a totally different world, Totally !!! You feel the power in your hands, the world at the tip of your fingers. But, to be honest , it was just the beginnning and I was a n00b / script kiddie.
