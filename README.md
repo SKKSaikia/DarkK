@@ -1,5 +1,5 @@
 # DarkK
-Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b>
+Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
 !# rule: Posting only the <b>cute pictures</b>, not taking the brutal road. <br/>
 !# rule: 9 is a special number: Cypher: Caeser,shift:9 <br/>
