@@ -30,8 +30,10 @@ Mitnick
 Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me. Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:
 
 <b>MELISSA:</b> <br/>
-<b>ILOVEYOU:</b> WORm/ Standalone program spreading itself.<br/> 
+<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself [VB Script]<br/> 
+<b>SQL SLAMMER:</b> WORM/ <br/>
 <b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
+<b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS<br/>
 
 term$ to look for: <br/>
 - [Botnets]() , [DDoS]() <br/>
