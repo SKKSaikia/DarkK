@@ -37,14 +37,13 @@ CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/vide
 <b>ILOVEYOU:</b> WORM/ [VB Script] [Intro](https://searchsecurity.techtarget.com/definition/ILOVEYOU-virus). [In Action](https://youtu.be/9BtxDdq5dwc)<br/> 
 <b>SQL SLAMMER:</b> [Intro](https://computer.howstuffworks.com/worst-computer-viruses6.htm), [vID](https://youtu.be/HH2_m4BqJZo) WORM/ <br/>
 <b>STUXnet:</b> [IntroVID](https://youtu.be/7g0pi4J8auQ), [Intro](https://searchsecurity.techtarget.com/definition/Stuxnet), [DOC:Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
-<b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS. Code changed every Half hour / hard to find and was almost invisible<br/>
-<b>MEBROOT:</b> ~ connecting to TORPIG[BOTNET] <br/>
-<b>SOBIG:</b> <br/>
-<b>CODE RED:</b> <br/>
-<b>SASSER:</b> <br/>
-<b>MYDOOM:</b> <br/>
-<b>LEAP:</b> <br/>
-<b>NIMDA:</b> <br/>
+<b>2007 Storm WORM:</b> [Intro](https://en.wikipedia.org/wiki/Storm_Worm)...connecting to BOTNET /DDoS. Code changes every Half hour / hard to find and was almost invisible. [REACH](https://youtu.be/a-8ap_Ez9OQ)<br/>
+<b>MEBROOT:</b> [{Intro}](https://en.wikipedia.org/wiki/Mebroot)~ connecting to TORPIG[BOTNET] <br/>
+<b>SOBIG:</b> [Intro](https://www.pandasecurity.com/homeusers/security-info/40408/information/Sobig.F) A;B;C;D;E;F, [action](https://youtu.be/NebPSMIogQc)<br/>
+<b>CODE RED I & II:</b>[How Stuff Works](https://computer.howstuffworks.com/worst-computer-viruses4.htm),  [iN ACTION](https://youtu.be/iu48QBJP_p0)<br/>
+<b>SASSER:</b> [{Intro}](https://www.f-secure.com/v-descs/sasser.shtml), [Working on a Physical PC Network](https://youtu.be/BhtyEdhepIc) <br/>
+<b>MYDOOM:</b> [INtro](http://virus.wikidot.com/mydoom), [Live Working](https://www.youtube.com/watch?v=YA1BiJKDxmg) <br/>
+<b>LEAP:</b> [Intro](http://malware.wikia.com/wiki/Leap), <b>NIMDA:</b> [Intro](https://searchsecurity.techtarget.com/definition/Nimda), Reverse of ADMIN ; etc <br/>
 term$ to look for: <br/>
 - [Botnets](https://en.wikipedia.org/wiki/Botnet) , [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack), [V!ru$ database](https://www.symantec.com/security-center/a-z) <br/>
 
