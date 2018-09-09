@@ -48,9 +48,9 @@ CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/vide
 term$ to look for: <br/>
 - [Botnets](https://en.wikipedia.org/wiki/Botnet) , [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack), [V!ru$ database](https://www.symantec.com/security-center/a-z) <br/>
 
-Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU)
+Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU) <br/>
+Malware Domain Lists: Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 
-Malware Domain Lists: Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses) <br/>
 Care where can you find V!RU$ sources ? : Dark Web // Listen to this [Art](https://youtu.be/7cyI8ww7P8g) __ 1:29
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
