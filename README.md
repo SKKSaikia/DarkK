@@ -37,8 +37,17 @@ Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V
 <b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
 <b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS. Code changed every Half hour / hard to find and was almost invisible<br/>
 <b>MEBROOT:</b> ~ connecting to TORPIG[BOTNET] <br/>
-
+<b>SOBIG:</b> <br/>
+<b>CODE RED:</b> <br/>
+<b>SASSER:</b> <br/>
+<b>MYDOOM:</b> <br/>
+<b>LEAP:</b> <br/>
+<b>NIMDA:</b> <br/>
 term$ to look for: <br/>
-- [Botnets]() , [DDoS]() <br/>
+- [Botnets]() , [DDoS]() <br/>, [V!ru$ database](https://www.symantec.com/security-center/a-z)
+
+Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU)
+
+Malware DOmain Lists: Free Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
