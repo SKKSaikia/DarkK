@@ -22,7 +22,7 @@ Keywords to Look for: <br/>
 [CICADA 3301](https://youtu.be/I2O7blSSzpI) silkroad, 4chan, /b/ , 
 
 # H4CK3RS 4BO4RD
-Curious & Excited I was , when I discovered ["DEFCON"](https://www.defcon.org/) back in 2008. I was so soaked up in this world that I started learning 
+Curious & Excited, when I discovered ["DEFCON"](https://www.defcon.org/) back in 2008. I was so soaked up in this world that I started learning Hacking ; Networking, would set up VMs of [Kali Linux](https://www.kali.org/) - explore [wireshark](https://www.wireshark.org/), [nmap](https://nmap.org/), [Metasploit](https://www.metasploit.com/) etc. Later trying out phishing, SQL Injection and stuff to figure out how cool they were. THis is a totally different world, Totally !!! You feel the power in your hands, the world at the tip of your fingers. But, to be honest , it was just the beginnning and I was a n00b / script kiddie.
 
 <img src="https://github.com/SKKSaikia/DarkK/blob/master/img/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/1461296757_tumblr_o5xrl536Vi1u9hyw0o1_500.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/2dVk.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/badge3.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/lulzsec-thumb.jpg" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/tumblr_nxa92lv2Zn1tzyjzvo1_500.gif" height=153px>
 
@@ -33,7 +33,7 @@ Later I felt the need of core skills of Networking & Systems to get into Securit
 Look for : Aaron Swartz [JSTOR](), Wikileaks, Edward Snowden, Gottfrid Svartholm
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
-Conferences to follow: [DEFCON](https://www.defcon.org/html/links/dc-torrent.html), [BLACK-HAT](https://www.blackhat.com/)., [CCC](https://www.ccc.de/en/), [RSA](https://www.rsaconference.com/) etc. <br/>
+Conferences to follow: [DEFCON](https://www.defcon.org/html/links/dc-torrent.html), [BLACK-HAT](https://www.blackhat.com/), [Chaos Computer Club](https://www.ccc.de/en/), [RSA](https://www.rsaconference.com/) etc. <br/>
 Some Interesting DEFCON talks: [Pwned by the Owner](https://youtu.be/Jwpg-AwJ0Jc), [Stealing Profits from Spammers](https://youtu.be/ytDamqTjPwg), [DEFCON DOcumentary](https://youtu.be/3ctQOmjQyYg) etc
 
 
