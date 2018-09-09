@@ -27,12 +27,11 @@ Mitnick
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
 # PayLoads & V!RU$3$
-Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/>
-[WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
+Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
 <br/>
 
 <b>MELISSA:</b> <br/>
-<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself #no_host_program [VB Script]<br/> 
+<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself #no_host_program [VB Script]. [In Action](https://youtu.be/9BtxDdq5dwc)<br/> 
 <b>SQL SLAMMER:</b> WORM/ <br/>
 <b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
 <b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS. Code changed every Half hour / hard to find and was almost invisible<br/>
@@ -50,5 +49,6 @@ Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https:/
 
 Malware DOmain Lists: Free Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 
+Care where can you find V!RU$ sources ? : Dark Web
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
