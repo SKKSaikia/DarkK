@@ -27,7 +27,7 @@ Mitnick
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
 # PayLoads & V!RU$3$
-Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me. Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [SASSER](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/>
+Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [SASSER](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/>
 [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
 <br/>
 
@@ -49,5 +49,6 @@ term$ to look for: <br/>
 Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU)
 
 Malware DOmain Lists: Free Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
+
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
