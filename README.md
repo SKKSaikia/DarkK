@@ -44,8 +44,9 @@ CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/vide
 <b>SASSER:</b> [{Intro}](https://www.f-secure.com/v-descs/sasser.shtml), [Working on a Physical PC Network](https://youtu.be/BhtyEdhepIc) <br/>
 <b>MYDOOM:</b> [INtro](http://virus.wikidot.com/mydoom), [Live Working](https://www.youtube.com/watch?v=YA1BiJKDxmg) <br/>
 <b>LEAP:</b> [Intro](http://malware.wikia.com/wiki/Leap), <b>NIMDA:</b> [Intro](https://searchsecurity.techtarget.com/definition/Nimda), Reverse of ADMIN ; etc <br/>
+
 term$ to look for: <br/>
-- [Botnets](https://en.wikipedia.org/wiki/Botnet) , [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack), [V!ru$ database](https://www.symantec.com/security-center/a-z) <br/>
+- [Botnets](https://en.wikipedia.org/wiki/Botnet) , [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack), [V!ru$ database](https://www.symantec.com/security-center/a-z) <br/> [rootkit](https://www.veracode.com/security/rootkit), [payload](https://searchsecurity.techtarget.com/definition/payload)
 
 Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU) <br/>
 Malware Domain Lists: Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
