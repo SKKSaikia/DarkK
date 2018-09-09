@@ -32,5 +32,6 @@ Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V
 <b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U)
 
 term$ to look for: <br/>
-- [Botnets]() , [DDoS]()
+- [Botnets]() , [DDoS]() <br/>
+
 ** ** **LEGENDS are Unknown and Unheard** ** **
