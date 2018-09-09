@@ -31,7 +31,7 @@ Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V
 <br/>
 CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/videos)
 
-<img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Virus_Blaster.jpg" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/wallpaper.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/computer-virus.jpg" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Aids_computer_virus.png" height=153px>
+<img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Virus_Blaster.jpg" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/wallpaper.gif" height=153px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/computer-virus.jpg" height=153px width=200px><a> </a><img src="https://github.com/SKKSaikia/DarkK/blob/master/img/Aids_computer_virus.png" height=153px>
 
 <b>MELISSA:</b> [iNTRO](https://searchsecurity.techtarget.com/definition/Melissa-virus) ; [iT'S WORKING](https://youtu.be/iBGIUd9niXc)<br/>
 <b>ILOVEYOU:</b> WORM/ [VB Script] [Intro](https://searchsecurity.techtarget.com/definition/ILOVEYOU-virus). [In Action](https://youtu.be/9BtxDdq5dwc)<br/> 
