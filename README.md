@@ -51,6 +51,6 @@ term$ to look for: <br/>
 Docs: [Zero Days](https://youtu.be/J50bUcf8gfc), [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/), [World's Most Dangerous Computer Viru$](https://youtu.be/qsKS6fwXTwg), [Incoming MEGA V!ru$](https://youtu.be/9OhBI-V7EYU) <br/>
 Malware Domain Lists: Samples [1](https://zeltser.com/malware-sample-sources/), [2](http://www.malwaredomainlist.com/mdl.php) ; [Timeline](https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms), [NOTES and Comparisons](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 
-Care where can you find V!RU$ sources ? : Dark Web // Listen to this [Art](https://youtu.be/7cyI8ww7P8g) __ 1:29
+Care where can you find V!RU$ sources ? : Dark Web // Meanwhile listen to this beautiful [Art](https://youtu.be/7cyI8ww7P8g) __ 1:29
 
 ** ** **LEGENDS are Unknown and Unheard** ** **
