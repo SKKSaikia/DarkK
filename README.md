@@ -27,13 +27,14 @@ Mitnick
 [Four Horsemen](https://youtu.be/5fbvquHSPJU)
 
 # PayLoads & V!RU$3$
-Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!tu$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
+Random Strolling on the Dweb, once I found a dump(44+ gigs which would contain V!ru$ sources until 2010. Starting from small malfunctions to the high profile ones [They were there]. Indeed a Goldmine for Enthusiasts like me /download . Playlists [1](https://youtu.be/QIqA66eYpC0), [2](https://youtu.be/DF8Ka8Jh0BQ), [3](https://youtu.be/Uzcg_EWfy28) listing V!Ru$3$ gives an Overview of what are we dealing with; $om3 major li$ting$:<br/> [WORM vs Malware vs Viru$](https://www.cisco.com/c/en/us/about/security-center/virus-differences.html)
 <br/>
+CHANNELS to look out for : [danooct1](https://www.youtube.com/user/danooct1/videos)
 
-<b>MELISSA:</b> <br/>
-<b>ILOVEYOU:</b> WORM/ Standalone program spreading itself #no_host_program [VB Script]. [In Action](https://youtu.be/9BtxDdq5dwc)<br/> 
-<b>SQL SLAMMER:</b> WORM/ <br/>
-<b>STUXnet:</b> [Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
+<b>MELISSA:</b> [iNTRO](https://searchsecurity.techtarget.com/definition/Melissa-virus) ; [iT'S WORKING](https://youtu.be/iBGIUd9niXc)<br/>
+<b>ILOVEYOU:</b> WORM/ [VB Script] [Intro](https://searchsecurity.techtarget.com/definition/ILOVEYOU-virus). [In Action](https://youtu.be/9BtxDdq5dwc)<br/> 
+<b>SQL SLAMMER:</b> [Intro](https://computer.howstuffworks.com/worst-computer-viruses6.htm), [vID](https://youtu.be/HH2_m4BqJZo) WORM/ <br/>
+<b>STUXnet:</b> [IntroVID](https://youtu.be/7g0pi4J8auQ), [Intro](https://searchsecurity.techtarget.com/definition/Stuxnet), [DOC:Iran and STUXnet, Iran is HACKED](https://youtu.be/TGGxqjpka-U) <br/>
 <b>2007 Storm WORM:</b> ...connecting to BOTNET /DDoS. Code changed every Half hour / hard to find and was almost invisible<br/>
 <b>MEBROOT:</b> ~ connecting to TORPIG[BOTNET] <br/>
 <b>SOBIG:</b> <br/>
