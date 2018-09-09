@@ -15,9 +15,10 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 [[LINKS]](https://darkwebnews.com/deep-web-links/) : Top 10 /
 1) Silkroad [http://silkroad7rn2puhj.onion/] : Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products.
 
-Documentaries to look for: <br/>
+Docs to look for: <br/>
 [Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA)
 
 Keywords to Look for: <br/>
 silkroad, 4chan, /b/ , 
 
+** ** **LEGENDS are Unknown and Unheard** ** **
