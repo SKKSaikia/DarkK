@@ -1,6 +1,7 @@
 # DarkK : Dark Web
 Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
+!#rule1: DO NOT TRUST ANYONE: Even this cute websites on Dark-Net and giving out information on "How to access" might be feds. This might prove fatal, getting tracked from here on. Use VPN from day 0.<br/>
 !# rule: Posting only the <b>cute pictures</b>, not taking the brutal road. <br/>
 !# rule: 9 is a special number: Cypher: Caeser,shift:9 <br/>
 !# fact 96 percent of the internet is not indexed by search engines such as Google and Bing. <br/>
@@ -24,7 +25,7 @@ Docs to look for: <br/>
 [Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA) ; DARK NET book by Jamie Bartlett.
 
 Keywords to Look for: <br/>
-[CICADA 3301](https://youtu.be/I2O7blSSzpI) , Silkroad, 4chan, /b/ , 
+[CICADA 3301](https://youtu.be/I2O7blSSzpI) , Silkroad, 4chan, /b/ , [Reddit forums](https://www.reddit.com/r/darknet/)
 
 ** ** ** ** ** <b> I've SEEN More Than I Should Have | We are not alone </b> ** ** ** ** **
 
