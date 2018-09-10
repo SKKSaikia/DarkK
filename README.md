@@ -1,5 +1,5 @@
 # DarkK : Dark Web
-Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
+Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
 !# rule: Posting only the <b>cute pictures</b>, not taking the brutal road. <br/>
 !# rule: 9 is a special number: Cypher: Caeser,shift:9 <br/>
@@ -12,7 +12,7 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
 !# tip: Turn OFF JavaScript in Tor | VPN(with No Logs)+Tor | Turn OFF Camera/Microphone (Tape It)
 
-[[LINKS]](https://darkwebnews.com/deep-web-links/) : Top /
+[[LINKS]](https://darkwebnews.com/deep-web-links/) : Top /  [darknetfiles](http://darknetfiles.com/) ; 
 1) Silkroad 3: Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products. <br/>
 2) 0day Forum (Zero Day):Forum about hacking, marketplace for Accounts,Security Services. Tutorials and Payment Systems too. </br>
 3) 1000777com: This site is dedicated to Truthseekers. It's main purpose is to lead seekers on to a MUCH more brighter source of information, and to help shed some light to a great deal of things happening in this very mad world. <br/>
