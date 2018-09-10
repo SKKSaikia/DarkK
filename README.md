@@ -1,4 +1,4 @@
-NOTE: THIS IS NOT WHAT I DO IN A REGULAR BASIS; I RESPECT EQUALITY; PRIVACY and JUSTICE/TRUTH ; Just a portion of my life in this world that I would like to share with you.
+NOTE: THIS IS NOT WHAT I DO IN A REGULAR BASIS; I RESPECT EQUALITY; PRIVACY and JUSTICE/TRUTH ; Just a portion of my life in this world "dark" that I would like to share with you.
 
 # DarkK : Dark Web
 Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
