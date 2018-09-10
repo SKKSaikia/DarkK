@@ -20,7 +20,7 @@ Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b
 2) 0day Forum (Zero Day):Forum about hacking, marketplace for Accounts,Security Services. Tutorials and Payment Systems too. </br>
 3) 1000777com: This site is dedicated to Truthseekers. It's main purpose is to lead seekers on to a MUCH more brighter source of information, and to help shed some light to a great deal of things happening in this very mad world. <br/>
 4) 100x Bitcoin: Bitcoin mixer for 100x your Bitcoins in just 24hours. You can " Pay 0.01 BTC today, get 1 BTC tomorrow " <br/>
-5) <br/>
+5) Hitman for Hire, Forums about World Order/ Classified Top Secret Projects; Suicide recordings; Sex taps/Celebrity Scandals ; Supercomputers / MIT/Harvard Research Lab access; Banned Movies/Books/Audio ; Animal Trade/Human Trafficking; Child Pornography; Obscure Death Cult; HYPERSECRETS ; Top-Secret Experimentation Procedures/Results ; BLACKBOX Recordings; <br/>
 And a lot more [.....](https://darkwebnews.com/dark-web-market-list/)
 
 Docs to look for: <br/>
