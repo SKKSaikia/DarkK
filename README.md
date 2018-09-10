@@ -12,14 +12,19 @@ Dar✘ - The DarkNet of the Deep Web <b>[mjatwnc]</b> = Un-indexed contents
 
 !# tip: Turn OFF JavaScript in Tor | VPN(with No Logs)+Tor | Turn OFF Camera/Microphone (Tape It)
 
-[[LINKS]](https://darkwebnews.com/deep-web-links/) : Top 10 /
-1) Silkroad [http://silkroad7rn2puhj.onion/] : Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products.
+[[LINKS]](https://darkwebnews.com/deep-web-links/) : Top /
+1) Silkroad 3: Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products. <br/>
+2) 0day Forum (Zero Day):Forum about hacking, marketplace for Accounts,Security Services. Tutorials and Payment Systems too. </br>
+3) 1000777com: This site is dedicated to Truthseekers. It's main purpose is to lead seekers on to a MUCH more brighter source of information, and to help shed some light to a great deal of things happening in this very mad world. <br/>
+4) 100x Bitcoin: Bitcoin mixer for 100x your Bitcoins in just 24hours. You can " Pay 0.01 BTC today, get 1 BTC tomorrow " <br/>
+5) <br/>
+And a lot more [.....](https://darkwebnews.com/dark-web-market-list/)
 
 Docs to look for: <br/>
-[Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA)
+[Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA) ; DARK NET book by Jamie Bartlett.
 
 Keywords to Look for: <br/>
-[CICADA 3301](https://youtu.be/I2O7blSSzpI) silkroad, 4chan, /b/ , 
+[CICADA 3301](https://youtu.be/I2O7blSSzpI) , Silkroad, 4chan, /b/ , 
 
 ** ** ** ** ** <b> I've SEEN More Than I Should Have | We are not alone </b> ** ** ** ** **
 
