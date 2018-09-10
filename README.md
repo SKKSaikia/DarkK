@@ -14,6 +14,7 @@ Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b
 !#  This blog is an honest report of X's journey through the [Dark Web]. Not posting [mnorwrcrxw](https://en.wikipedia.org/wiki/Dark_web) and [nbpkl](https://darkwebnews.com/deep-web/) ! . anyxac xwuh: This [rwoxpajyqrl](https://github.com/SKKSaikia/DarkK/blob/master/img/fkbkjb.png) gives a clear glimpse. Things might get nefarious.This [website](https://darkwebnews.com/) is a mecca holding tons of information. Posting the interesting ones. I hope you know the risks and how to / [[tor]](https://www.torproject.org/) before beginning the journey.
 
 !# tip: Turn OFF JavaScript in Tor | VPN(with No Logs)+Tor | Turn OFF Camera/Microphone (Tape It)
+!# tip: DO NOT Change Tor Browser Size | Can Track once you change the default size.
 
 [[LINKS]](https://darkwebnews.com/deep-web-links/) : Top /  [darknetfiles](http://darknetfiles.com/) ; 
 1) Silkroad 3: Drugs/Weapons: They sell Cannabis, Stimulants, Ecstasy, Opioids, Benzos, Dissociatives, Psychedelic, Prescription, and Other products. <br/>
