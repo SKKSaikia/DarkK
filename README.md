@@ -21,8 +21,8 @@ Dar✘ - The [DarkNet](https://en.wikipedia.org/wiki/Darknet) of the Deep Web <b
 2) 0day Forum (Zero Day):Forum about hacking, marketplace for Accounts,Security Services. Tutorials and Payment Systems too. </br>
 3) 1000777com: This site is dedicated to Truthseekers. It's main purpose is to lead seekers on to a MUCH more brighter source of information, and to help shed some light to a great deal of things happening in this very mad world. <br/>
 4) 100x Bitcoin: Bitcoin mixer for 100x your Bitcoins in just 24hours. You can " Pay 0.01 BTC today, get 1 BTC tomorrow " <br/>
-5) Hitman for Hire, Forums about World Order/ Classified Top Secret Projects; Suicide recordings; Sex taps/Celebrity Scandals ; Supercomputers / MIT/Harvard Research Lab access; Banned Movies/Books/Audio ; Animal Trade/Human Trafficking; Child Pornography; Obscure Death Cult; HYPERSECRETS ; Top-Secret Experimentation Procedures/Results ; BLACKBOX Recordings; <br/>
-And a lot more [.....](https://darkwebnews.com/dark-web-market-list/)
+5) Hitman for Hire (Hitman Network), Buy Weapons; Forums about World Order/ Classified Top Secret Projects; Suicide recordings; Sex taps/Celebrity Scandals ; Supercomputers / MIT/Harvard Research Lab access; Banned Movies/Books/Audio ; Animal Trade/Human Trafficking; Child Pornography; Obscure Death Cult; HYPERSECRETS ; Top-Secret Experimentation Procedures/Results ; BLACKBOX Recordings; BlackMamba (Assasination Website) - by - exMilitary/Rogues | Pay/Hire to hit; FakeIDs/ Fake Passports; There are cults you dont wanna be part of /Scary /un-Humanly  <br/>
+And a lot more [.....](https://darkwebnews.com/dark-web-market-list/) | [The Hidden Wiki](https://thehiddenwiki.org/)
 
 Docs to look for: <br/>
 [Ashley Madison: Sex, Lies & Cyber Attacks](https://www.imdb.com/title/tt6798722/) [Watch](https://youtu.be/JmE5Q7DBDmk) , [Anonymous: Down The Deep Dark Web Documentary](https://youtu.be/osln0IWh__Q) , [The Hidden Secrets Inside of Internet](https://youtu.be/J77VKWLdcfE), [Deep Web Documentary](https://youtu.be/Ax7r9Y9LBdA) ; DARK NET book by Jamie Bartlett.
